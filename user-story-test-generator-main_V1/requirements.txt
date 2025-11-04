@@ -1,0 +1,5 @@
+google-genai
+gradio
+pathspec
+PyYAML
+python-dotenv
